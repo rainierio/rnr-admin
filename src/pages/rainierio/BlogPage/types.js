@@ -1,0 +1,13 @@
+// BlogPage Actions
+export const aGET_BLOG = "aGET_BLOG";
+export const aSINGLE_BLOG = "aSINGLE_BLOG";
+export const CREATE_ARTICLE = "CREATE_ARTICLE"
+export const aUPDATE_POST = "aUPDATE_POST";
+export const DELETE_ARTICLE = "DELETE_ARTICLE";
+export const aBLOG_LOADING = "aBLOG_LOADING";
+export const REMOVE_BLOG_IMAGE = "REMOVE_BLOG_IMAGE"
+export const UPDATE_FIELD_POST = "UPDATE_FIELD_POST";
+export const UPDATE_FIELD_ADD_POST = "UPDATE_FIELD_ADD_POST";
+export const LOCATION_CHANGE = "LOCATION_CHANGE";
+export const DISABLE_SERV_RESP = "DISABLE_SERV_RESP";
+

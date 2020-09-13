@@ -1,0 +1,9 @@
+// Portfolio page types
+export const SET_INITIAL = "SET_INITIAL"
+export const GET_PORTFOLIOS = "GET_PORTFOLIOS"
+export const GET_SINGLE_PORTFOLIO = "GET_SINGLE_PORTFOLIO"
+export const ADD_PORTFOLIO = "ADD_PORTFOLIO"
+export const EDIT_PORTFOLIO = "EDIT_PORTFOLIO"
+export const REMOVE_IMAGE = "REMOVE_IMAGE"
+export const DELETE_PORTFOLIO = "DELETE_PORTFOLIO"
+export const LOADING = "LOADING"
