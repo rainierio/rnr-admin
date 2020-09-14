@@ -23,6 +23,7 @@
     "react-component-queries": "^2.3.0",
     "react-d3-map": "^0.8.3",
     "react-dom": "^16.13.1",
+    "react-dropzone": "^11.1.0",
     "react-ga": "^2.5.7",
     "react-hook-form": "^6.3.0",
     "react-icons": "^3.9.0",
@@ -39,6 +40,7 @@
     "reactstrap": "^7.1.0",
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
     "victory": "^32.0.0"
   },
   "devDependencies": {
