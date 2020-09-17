@@ -86,7 +86,7 @@ const PortfolioInput = props => {
     uploadedImages.map(img => (
       <Col xs="auto" style={{ paddingRight: 0, paddingLeft: 0 }}>
         <CardImg
-          src={process.env.PUBLIC_URL + '/portfolio/' + img}
+          src={ img}
           style={{ width: 'auto', height: 90, marginLeft: 5, marginTop: 5 }}
         />
         <div>

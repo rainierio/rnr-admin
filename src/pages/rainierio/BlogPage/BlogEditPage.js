@@ -110,7 +110,7 @@ class BlogEditPage extends React.Component {
     const showImage = loadImage && (
       <Col xs="auto" style={{ paddingRight: 0, paddingLeft: 0 }}>
         <CardImg
-          src={process.env.PUBLIC_URL + '/blogs/' + loadImage}
+          src={loadImage}
           style={{ width: 'auto', height: 90, marginLeft: 5, marginTop: 5 }}
         />
         <div>
