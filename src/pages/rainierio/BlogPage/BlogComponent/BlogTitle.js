@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'utils/propTypes';
-import CheckboxToggle from '@bit/nexxtway.react-rainbow.checkbox-toggle';
+import CheckboxToggle from 'react-rainbow-components';
 import moment from 'moment'
 
 export const propTypes = {
