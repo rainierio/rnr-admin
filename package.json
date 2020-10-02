@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "rainierio.io admin site",
   "private": false,
-  "homepage": "https://github.com/rainierio/rnr-admin.git",
+  "homepage": "https://rainierio.github.com/rnr-admin",
   "dependencies": {
     "@babel/core": "^7.11.6",
     "@tinymce/tinymce-react": "^3.5.0",
