@@ -3,6 +3,7 @@
   "version": "1.1.0",
   "description": "rainierio.io admin site",
   "private": false,
+  "homepage": "https://github.com/rainierio/rnr-admin.git",
   "dependencies": {
     "@babel/core": "^7.11.6",
     "@tinymce/tinymce-react": "^3.5.0",
@@ -64,13 +65,12 @@
     "stylelint-scss": "^3.16.0"
   },
   "scripts": {
-    "dev": "react-scripts start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "serve": "serve -s build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "heroku-postbuild": "npm run build"
+    "eject": "react-scripts eject"
   },
   "browserslist": [
     ">0.2%",
