@@ -65,7 +65,8 @@
     "stylelint-scss": "^3.16.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "dev": "react-scripts start",
+    "start": "serve -s build",
     "build": "react-scripts build",
     "serve": "serve -s build",
     "predeploy": "npm run build",
