@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://rainierio.github.com/rnr-admin/precache-manifest.a694afeae4cce422841a5198b222b352.js"
+  "https://rainierio.github.com/rnr-admin/precache-manifest.cef34c0280cc9bfa10ba7c05ee16c966.js"
 );
 
 self.addEventListener('message', (event) => {

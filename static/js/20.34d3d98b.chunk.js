@@ -1,0 +1,2 @@
+(this["webpackJsonprnr-admin"]=this["webpackJsonprnr-admin"]||[]).push([[20],{2407:function(n,t,e){"use strict";e.r(t);var r=e(2),a=e.n(r);t.default=function(){return a.a.createElement("div",null,"Page Not Found")}}}]);
+//# sourceMappingURL=20.34d3d98b.chunk.js.map

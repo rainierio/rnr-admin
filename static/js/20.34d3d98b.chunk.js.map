@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/rainierio/NotFoundPage.js"],"names":["NotFoundPage"],"mappings":"gHACA,2BAUeA,UARM,WACnB,OACE,6BACG","file":"static/js/20.34d3d98b.chunk.js","sourcesContent":["\nimport React from 'react';\n\nconst NotFoundPage = () => {\n  return (\n    <div>\n      {\"Page Not Found\"}\n    </div>\n  );\n};\n\nexport default NotFoundPage;\n"],"sourceRoot":""}

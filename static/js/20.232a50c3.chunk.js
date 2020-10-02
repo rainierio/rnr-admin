@@ -1,2 +1,0 @@
-(this["webpackJsonprainierio.io"]=this["webpackJsonprainierio.io"]||[]).push([[20],{2407:function(i,n,e){"use strict";e.r(n);var t=e(2),o=e.n(t);n.default=function(){return o.a.createElement("div",null,"Page Not Found")}}}]);
-//# sourceMappingURL=20.232a50c3.chunk.js.map
