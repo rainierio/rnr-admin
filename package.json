@@ -68,7 +68,7 @@
     "dev": "react-scripts start",
     "dev2": "serve -s build",
     "start": "react-scripts start",
-    "build": "GENERATE_SOURCEMAP=falsereact-scripts build",
+    "build": "GENERATE_SOURCEMAP=false react-scripts build",
     "heroku-postbuild": "npm run build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
