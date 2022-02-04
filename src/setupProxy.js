@@ -3,7 +3,7 @@ module.exports = function(app) {
   app.use(
     '/api',
     createProxyMiddleware({
-      target: 'http://origin.eba-awajfifh.ap-southeast-2.elasticbeanstalk.com/',
+      target: 'https://rainierio-api-svc.online/',
       changeOrigin: true,
     })
   );
