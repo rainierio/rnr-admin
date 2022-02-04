@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios from '../../../utils/axios'
 import Cookies from "js-cookie"
 import {  USER_LOGIN, USER_LOGOUT, LOAD_PROFILE, UPDATE_PROFILE, SET_CURRENT_USER, USER_LOGIN_LOADING, CHECK_TOKEN, UPDATE_FIELD } from "./Types";
 

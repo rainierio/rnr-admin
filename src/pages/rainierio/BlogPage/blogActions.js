@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios from '../../../utils/axios'
 import {
   aGET_BLOG,
   aSINGLE_BLOG,
