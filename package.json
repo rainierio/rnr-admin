@@ -3,7 +3,6 @@
   "version": "1.1.0",
   "description": "rainierio.io admin site",
   "private": true,
-  "homepage": "https://rainierio-admin.herokuapp.com",
   "dependencies": {
     "@babel/core": "^7.11.6",
     "@tinymce/tinymce-react": "^3.5.0",

@@ -1,12 +1,9 @@
-import { Content, Footer, Header, Sidebar } from 'components/Layout';
+import { Content, Header, Sidebar } from 'components/Layout';
 import React from 'react';
 import {
   MdImportantDevices,
-  // MdCardGiftcard,
   MdLoyalty,
 } from 'react-icons/md';
-// import NotificationSystem from 'react-notification-system';
-// import { NOTIFICATION_SYSTEM_STYLE } from 'utils/constants';
 
 import { compose } from "redux";
 import { connect } from "react-redux";
